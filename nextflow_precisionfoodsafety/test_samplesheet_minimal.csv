@@ -1,0 +1,2 @@
+sample,flowcell_id_short,barcode_short,barcode,location,flowcell_id
+test,dummy_flowcell,BC01,barcode01,https://github.com/koenbossers/testdata/raw/main/nanopore/listeria_minimal.fastq.gz,dummy_flowcell_full
