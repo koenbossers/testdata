@@ -1,2 +1,2 @@
 sample,flowcell_id_short,barcode_short,barcode,location,flowcell_id
-test,dummy_flowcell,BC01,barcode01,https://zenodo.org/records/10650052/files/TATCC_0161_20220601_1230_X2_FAP03006_dda46c9e_barcode17.fastq.gz?download=1,dummy_flowcell_full
+test,dummy_flowcell,BC01,barcode01,https://zenodo.org/records/10650052/files/TATCC_0161_20220601_1230_X2_FAP03006_dda46c9e_barcode17.fastq.gz,dummy_flowcell_full
