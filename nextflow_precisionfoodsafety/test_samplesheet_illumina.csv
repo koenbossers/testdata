@@ -1,2 +1,2 @@
 sample,location_fastq1,location_fastq2,single_end
-atcc_19112,https://zenodo.org/records/10650052/files/ATCC_19112_R1.fastq.gz,https://zenodo.org/records/10650052/files/ATCC_19112_R2.fastq.gz?download=1,False
+atcc_19112,https://zenodo.org/records/10650052/files/ATCC_19112_R1.fastq.gz,https://zenodo.org/records/10650052/files/ATCC_19112_R2.fastq.gz,False
